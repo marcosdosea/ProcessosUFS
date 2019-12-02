@@ -63,7 +63,7 @@ audio:not([controls]) {
  */
 /* line 68, ../../sass/utilities/_normalize.scss */
 html {
-  background: #fff;
+  background: #004984;
   /* 1 */
   color: #000;
   /* 2 */
@@ -1140,7 +1140,7 @@ select {
 .sub-nav dt a,
 .sub-nav dd a,
 .sub-nav li a {
-  color: #999999;
+  color: #004984;
   text-decoration: none;
 }
 /* line 54, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/zurb-foundation-4.3.2/scss/foundation/components/_sub-nav.scss */
@@ -1693,7 +1693,7 @@ td {
 /* Default Link Styles */
 /* line 152, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/zurb-foundation-4.3.2/scss/foundation/components/_type.scss */
 a {
-  color: #e75200;
+  color: white;
   text-decoration: none;
   line-height: inherit;
 }
@@ -1729,7 +1729,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
-  color: #030303;
+  color: white;
   text-rendering: optimizeLegibility;
   margin-top: 0.2em;
   margin-bottom: 0.5em;
@@ -3398,10 +3398,10 @@ table ul {
    ========================================================================== */
 /* line 99, ../../sass/_export.scss */
 .biz-ex-wrapper {
-  height: 100%;
+  height: 100% ;
   border-left: 1px solid #cecece;
   border-right: 1px solid #cecece;
-  background: white;
+  background: #004984;
 }
 
 /* line 106, ../../sass/_export.scss */
@@ -3432,7 +3432,7 @@ table ul {
   background-image: -webkit-linear-gradient(#ffffff, #f2f2f2);
   background-image: -moz-linear-gradient(#ffffff, #f2f2f2);
   background-image: -o-linear-gradient(#ffffff, #f2f2f2);
-  background-image: linear-gradient(#ffffff, #f2f2f2);
+  background-image: linear-gradient(red, red)
   border-bottom: 1px solid #e8e8e8;
 }
 @media (min-width: 1024px) {
@@ -3474,8 +3474,8 @@ table ul {
   background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #f8f8f8));
   background-image: -webkit-linear-gradient(#ffffff, #f8f8f8);
   background-image: -moz-linear-gradient(#ffffff, #f8f8f8);
-  background-image: -o-linear-gradient(#ffffff, #f8f8f8);
-  background-image: linear-gradient(#ffffff, #f8f8f8);
+  background-image: -o-linear-gradient(red, red);
+  background-image: linear-gradient(#004984, #004984);
   padding: 1em 0;
 }
 
@@ -3573,7 +3573,7 @@ table ul {
    ========================================================================== */
 /* line 224, ../../sass/_export.scss */
 .biz-ex-navigation-left {
-  background: #fcfcfc;
+  background: #004984;
 }
 @media (min-width: 1024px) {
   /* line 224, ../../sass/_export.scss */
@@ -3599,7 +3599,7 @@ table ul {
   width: 166px;
   height: 55px;
   margin: 0 auto;
-  background: url("../img/biz-ex-logo.png") no-repeat;
+  background: url("../img/ufs_logo.png") no-repeat;
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   /* line 236, ../../sass/_export.scss */
@@ -3656,7 +3656,7 @@ table ul {
 .nav-bar a {
   display: block;
   padding: 1.25em 1.5em;
-  color: #030303;
+  color: white;
   -webkit-transition-property: background, color;
   -moz-transition-property: background, color;
   -o-transition-property: background, color;
@@ -3678,7 +3678,7 @@ table ul {
 }
 /* line 298, ../../sass/_export.scss */
 .nav-bar .biz-ex-sub-page.active {
-  background: rgba(231, 82, 0, 0.01);
+  background: white;
   border-bottom: 1px solid rgba(231, 82, 0, 0.2);
 }
 
@@ -5244,7 +5244,7 @@ img.biz-ex-diagram-image {
 /* line 1464, ../../sass/_export.scss */
 .biz-ex-active-ancestors.active-ancestors > a {
   background: rgba(231, 82, 0, 0.01) !important;
-  color: #e75200;
+  color: #004984;
 }
 
 /* line 1470, ../../sass/_export.scss */
