@@ -4201,7 +4201,7 @@ body.off-canvas {
 }
 /* line 638, ../../sass/_export.scss */
 .no-touch .bix-ex-figure-panel:hover {
-  border-color: #e75200;
+  border-color: blue;
 }
 /* line 639, ../../sass/_export.scss */
 .no-touch .bix-ex-figure-panel:hover .biz-ex-overview-process {
@@ -5234,9 +5234,9 @@ img.biz-ex-diagram-image {
 
 /* line 1456, ../../sass/_export.scss */
 .biz-ex-active.active > a {
-  border-top-color: #e75200 !important;
+  border-top-color: white !important;
   background: rgba(231, 82, 0, 0.1);
-  color: #e75200;
+  color: #004984;
   -webkit-transition: border-top-color 1s;
   -moz-transition: border-top-color 1s;
 }
@@ -6201,15 +6201,15 @@ img.biz-ex-diagram-image {
   background: rgba(0, 0, 0, 0.1);
   top: 0;
   left: 0;
-  border: solid 1px #e75200;
+  border: solid 1px #004984;
 }
 
 /* line 164, ../../sass/_zoomer.scss */
 .zoom-pane-preview .zoom-pane-square.ui-draggable-dragging {
-  background-color: rgba(231, 82, 0, 0.4);
-  -webkit-box-shadow: rgba(231, 82, 0, 0.4) 0 0 10px;
-  -moz-box-shadow: rgba(231, 82, 0, 0.4) 0 0 10px;
-  box-shadow: rgba(231, 82, 0, 0.4) 0 0 10px;
+  background-color: rgba(0, 73, 132, 0.4);
+  -webkit-box-shadow: rgba(0, 73, 132, 0.4) 0 0 10px;
+  -moz-box-shadow: rgba(0, 73, 132, 0.4) 0 0 10px;
+  box-shadow: rgba(0, 73, 132, 0.4) 0 0 10px;
 }
 
 /* line 169, ../../sass/_zoomer.scss */
