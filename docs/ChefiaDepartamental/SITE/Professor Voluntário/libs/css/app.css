@@ -3669,7 +3669,7 @@ table ul {
 /* line 286, ../../sass/_export.scss */
 .nav-bar a:hover {
   background: rgba(231, 82, 0, 0.025);
-  color: #e75200;
+  color: blue;
 }
 /* line 292, ../../sass/_export.scss */
 .nav-bar .biz-ex-sub-page a {
@@ -4093,7 +4093,7 @@ body.off-canvas {
 }
 /* line 552, ../../sass/_export.scss */
 .biz-ex-search-option.biz-ex-active {
-  color: #e75200;
+  color: blue;
 }
 /* line 553, ../../sass/_export.scss */
 .biz-ex-search-option.biz-ex-is-hidden {
