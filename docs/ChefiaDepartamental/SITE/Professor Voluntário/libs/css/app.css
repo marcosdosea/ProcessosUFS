@@ -3604,7 +3604,7 @@ table ul {
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   /* line 236, ../../sass/_export.scss */
   .biz-ex-logo-img {
-    background: url("../img/biz-ex-logo-2x.png") no-repeat;
+    background: url("../img/ufs_logo.png") no-repeat;
     background-size: 165px 54px;
   }
 }
