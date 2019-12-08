@@ -1729,7 +1729,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
-  color: white;
+  color: #6692f2;
   text-rendering: optimizeLegibility;
   margin-top: 0.2em;
   margin-bottom: 0.5em;
@@ -3323,7 +3323,7 @@ a {
 
 /* line 35, ../../sass/_export.scss */
 a:hover {
-  color: rgba(231, 82, 0, 0.6);
+  color: rgba(102, 146, 242, 0.6);
 }
 
 /* line 38, ../../sass/_export.scss */
@@ -3668,8 +3668,8 @@ table ul {
 }
 /* line 286, ../../sass/_export.scss */
 .nav-bar a:hover {
-  background: rgba(231, 82, 0, 0.025);
-  color: blue;
+  background: rgba(102, 146, 242, 0.025);
+  color: #6692f2;
 }
 /* line 292, ../../sass/_export.scss */
 .nav-bar .biz-ex-sub-page a {
@@ -3679,7 +3679,7 @@ table ul {
 /* line 298, ../../sass/_export.scss */
 .nav-bar .biz-ex-sub-page.active {
   background: white;
-  border-bottom: 1px solid rgba(231, 82, 0, 0.2);
+  border-bottom: 1px solid rgba(102, 146, 242, 0.2);
 }
 
 /* line 304, ../../sass/_export.scss */
@@ -5172,7 +5172,7 @@ img.biz-ex-diagram-image {
   position: absolute;
   top: 0.61538em;
   right: 2em;
-  color: #aaaaaa;
+  color: blue;
   font-weight: bold;
   cursor: pointer;
 }
