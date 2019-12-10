@@ -1693,7 +1693,7 @@ td {
 /* Default Link Styles */
 /* line 152, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/zurb-foundation-4.3.2/scss/foundation/components/_type.scss */
 a {
-  color: #e75200;
+  color: white;
   text-decoration: none;
   line-height: inherit;
 }
@@ -1729,7 +1729,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style: normal;
-  color: #030303;
+  color: #6692f2;
   text-rendering: optimizeLegibility;
   margin-top: 0.2em;
   margin-bottom: 0.5em;
@@ -3323,7 +3323,7 @@ a {
 
 /* line 35, ../../sass/_export.scss */
 a:hover {
-  color: rgba(231, 82, 0, 0.6);
+  color: rgba(102, 146, 242, 0.6);
 }
 
 /* line 38, ../../sass/_export.scss */
@@ -3401,7 +3401,7 @@ table ul {
   height: 100%;
   border-left: 1px solid #cecece;
   border-right: 1px solid #cecece;
-  background: white;
+  background: #004984;
 }
 
 /* line 106, ../../sass/_export.scss */
@@ -3432,7 +3432,7 @@ table ul {
   background-image: -webkit-linear-gradient(#ffffff, #f2f2f2);
   background-image: -moz-linear-gradient(#ffffff, #f2f2f2);
   background-image: -o-linear-gradient(#ffffff, #f2f2f2);
-  background-image: linear-gradient(#ffffff, #f2f2f2);
+  background-image: linear-gradient(#004984, #004984);
   border-bottom: 1px solid #e8e8e8;
 }
 @media (min-width: 1024px) {
@@ -3475,7 +3475,7 @@ table ul {
   background-image: -webkit-linear-gradient(#ffffff, #f8f8f8);
   background-image: -moz-linear-gradient(#ffffff, #f8f8f8);
   background-image: -o-linear-gradient(#ffffff, #f8f8f8);
-  background-image: linear-gradient(#ffffff, #f8f8f8);
+  background-image: linear-gradient(#004984, #004984);
   padding: 1em 0;
 }
 
@@ -3573,7 +3573,7 @@ table ul {
    ========================================================================== */
 /* line 224, ../../sass/_export.scss */
 .biz-ex-navigation-left {
-  background: #fcfcfc;
+  background: #004984;
 }
 @media (min-width: 1024px) {
   /* line 224, ../../sass/_export.scss */
@@ -3599,12 +3599,12 @@ table ul {
   width: 166px;
   height: 55px;
   margin: 0 auto;
-  background: url("../img/biz-ex-logo.png") no-repeat;
+  background: url("../img/ufs_logo.png") no-repeat;
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   /* line 236, ../../sass/_export.scss */
   .biz-ex-logo-img {
-    background: url("../img/biz-ex-logo-2x.png") no-repeat;
+    background: url("../img/ufs_logo.png") no-repeat;
     background-size: 165px 54px;
   }
 }
@@ -3656,7 +3656,7 @@ table ul {
 .nav-bar a {
   display: block;
   padding: 1.25em 1.5em;
-  color: #030303;
+  color: white;
   -webkit-transition-property: background, color;
   -moz-transition-property: background, color;
   -o-transition-property: background, color;
@@ -3669,7 +3669,7 @@ table ul {
 /* line 286, ../../sass/_export.scss */
 .nav-bar a:hover {
   background: rgba(231, 82, 0, 0.025);
-  color: #e75200;
+  color: #6692f2;
 }
 /* line 292, ../../sass/_export.scss */
 .nav-bar .biz-ex-sub-page a {
@@ -4201,7 +4201,7 @@ body.off-canvas {
 }
 /* line 638, ../../sass/_export.scss */
 .no-touch .bix-ex-figure-panel:hover {
-  border-color: #e75200;
+  border-color: #004984;
 }
 /* line 639, ../../sass/_export.scss */
 .no-touch .bix-ex-figure-panel:hover .biz-ex-overview-process {
@@ -5234,7 +5234,7 @@ img.biz-ex-diagram-image {
 
 /* line 1456, ../../sass/_export.scss */
 .biz-ex-active.active > a {
-  border-top-color: #e75200 !important;
+  border-top-color: white !important;
   background: rgba(231, 82, 0, 0.1);
   color: #e75200;
   -webkit-transition: border-top-color 1s;
@@ -5243,8 +5243,8 @@ img.biz-ex-diagram-image {
 
 /* line 1464, ../../sass/_export.scss */
 .biz-ex-active-ancestors.active-ancestors > a {
-  background: rgba(231, 82, 0, 0.01) !important;
-  color: #e75200;
+  background: white !important;
+  color: #004984;
 }
 
 /* line 1470, ../../sass/_export.scss */
@@ -6201,15 +6201,15 @@ img.biz-ex-diagram-image {
   background: rgba(0, 0, 0, 0.1);
   top: 0;
   left: 0;
-  border: solid 1px #e75200;
+  border: solid 1px #004984;
 }
 
 /* line 164, ../../sass/_zoomer.scss */
 .zoom-pane-preview .zoom-pane-square.ui-draggable-dragging {
-  background-color: rgba(231, 82, 0, 0.4);
-  -webkit-box-shadow: rgba(231, 82, 0, 0.4) 0 0 10px;
-  -moz-box-shadow: rgba(231, 82, 0, 0.4) 0 0 10px;
-  box-shadow: rgba(231, 82, 0, 0.4) 0 0 10px;
+  background-color: rgba(0, 73, 132, 0.4);
+  -webkit-box-shadow: rgba(0, 73, 132, 0.4) 0 0 10px;
+  -moz-box-shadow: rgba(0, 73, 132, 0.4) 0 0 10px;
+  box-shadow: rgba(0, 73, 132, 0.4) 0 0 10px;
 }
 
 /* line 169, ../../sass/_zoomer.scss */
