@@ -1,4 +1,4 @@
-# Sistema ProcessosUFs
+# Sistema ProcessosUFS
 ##Sistema feito para armazenar e apresentar as modelagem de processos da UFS - Universidade Federal de Sergipe.
 
 # Pagina Principal.
