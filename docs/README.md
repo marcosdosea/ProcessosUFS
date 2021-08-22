@@ -1,6 +1,8 @@
 # Sistema ProcessosUFS
 ##Sistema feito para armazenar e apresentar as modelagem de processos da UFS - Universidade Federal de Sergipe.
 
+ ![Gif-processosUFS]( https://github.com/marcosdosea/ProcessosUFS/blob/master/ezgif.com-gif-maker.gif )
+
 # Pagina Principal.
 ![Pagina principal](https://github.com/marcosdosea/ProcessosUFS/blob/master/processos-principal.PNG)
 
